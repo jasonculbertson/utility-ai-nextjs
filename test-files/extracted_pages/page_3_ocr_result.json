@@ -1,0 +1,20 @@
+{
+  "ParsedResults": [
+    {
+      "TextOverlay": {
+        "Lines": [],
+        "HasOverlay": false,
+        "Message": "Text overlay is not provided as it is not requested"
+      },
+      "TextOrientation": "0",
+      "FileParseExitCode": 1,
+      "ParsedText": "ENERGY STATEMENT\r\nwww.pge.com/MyEnergy\r\nDetails of PG&E Electric Delivery Charges\r\n11/04/2024 - 12/04/2024 (31 billing days)\r\nSer.,ice For 1080 WARFIELD AVE\r\nService Agreement 7037173513\r\nRate Schedule: ETOIJ3 3 Residential Time-of-Use Service\r\nAccount No:\r\nStatement Date:\r\nDue Date:\r\nService Intormation\r\nTotal Usage\r\nI-Éat Source\r\nSerial\r\nRotating Outage Block\r\n11/04/2024 - 12/04/2024\r\nEnergy Charges\r\nOff Peak\r\nGeneration Credit\r\npomer Charge Indifference Adjustment\r\nFranchise Fee Surcharge\r\nOakland Utility users' Tax (7.500%)\r\n70.616000\r\n559.264CD0\r\nkWh\r\nkWh\r\n@ so.44583\r\n@ so.40703\r\nTotal PG&E Electric Delivery Charges\r\nElectric Usage This Period: 629.880000 kWh, 31\r\nbilling days\r\nkWh\r\nver\r\n$31.48\r\n22764\r\n6,03\r\n067\r\n13,68\r\n$196.81\r\npeak'\r\nOff\r\n'Peak:\r\n•Off peak;\r\n'2,04\r\nusage\r\n88.79%\r\n11,07\r\n11,'10\r\n11,'16\r\n11,'28\r\n12,'01\r\n7098882035-6\r\n1 2/11/2024\r\n01102/2025\r\n1036329059\r\n629 880000 kWh\r\na - Not Electric\r\nnergy C harges\r\n$31\r\n$227 E4\r\npage 3 ot\r\n•visit —.pge.com/NyEt•rgy for 5 Otajed b.] comparison.\r\n",
+      "ErrorMessage": "",
+      "ErrorDetails": ""
+    }
+  ],
+  "OCRExitCode": 1,
+  "IsErroredOnProcessing": false,
+  "ProcessingTimeInMilliseconds": "953",
+  "SearchablePDFURL": "Searchable PDF not generated as it was not requested."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PG&E Bill Analyzer",
+  "description": "A Next.js application that extracts information from PG&E bills using OCR and OpenAI",
+  "keywords": ["nextjs", "pge", "bill", "analyzer", "ocr", "openai"],
+  "repository": "https://github.com/jasonculbertson/utility-ai-nextjs",
+  "env": {
+    "OPENAI_API_KEY": {
+      "description": "Your OpenAI API key for extracting structured information from OCR text",
+      "required": true
+    },
+    "OCR_SPACE_API_KEY": {
+      "description": "Your OCR.space API key for processing PDF files to extract text via OCR",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}

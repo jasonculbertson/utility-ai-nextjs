@@ -1,0 +1,20 @@
+{
+  "ParsedResults": [
+    {
+      "TextOverlay": {
+        "Lines": [],
+        "HasOverlay": false,
+        "Message": "Text overlay is not provided as it is not requested"
+      },
+      "TextOrientation": "0",
+      "FileParseExitCode": 1,
+      "ParsedText": "ENERGY STATEMENT\r\nwww.pge.com/MyEnergy\r\nDetails of Gas Charges\r\n11/05/2024 - 12/05/2024 (31 billing days)\r\nSer.,ice 1080 WARFIELD AVE\r\nService Agreement 7093882260\r\nRate Schedule: Gi Residential Service\r\n11/05/2024 - 11130/2024\r\nTier 1 Allowance\r\nTier 1 usage\r\nTier 2 usage\r\nYour Tier usage 1\r\n34.CEThe.rms days* I .31 Thern%/däY)\r\n34.060WOTherms g 52.40329\r\nAccount No:\r\nStatement Date:\r\nDue Date:\r\nService Intormation\r\nCurrent Meter Reading\r\nprior 'Æer Reading\r\nDifference\r\nMultiplier\r\nTotal Usage\r\nBaseline Territory\r\nSerial\r\nG— procuemert Costs\r\n11105/2024 - 11130/2024\r\nsei\r\n423\r\n$.38\r\n9.31\r\n7098882035-6\r\n1 2/11/2024\r\n01102/2025\r\n9,456\r\n9,401\r\n1058870\r\n58.ocnooo Therms\r\n9.45334\r\nSO 52853\r\nGas PPP surcharge 'Therm)\r\nOakland utility users •\r\n12101/2024 - 12/05/2024\r\nTier 1 Allowance\r\nTier 1 Usage\r\nTier 2 Usage\r\nYour Tier Usage 1\r\n2\r\n8.40 Therms (5 days x 1.68 Thernz/day)\r\nB400000Therms @ $2.47848\r\n0.954840Therms @ $287224\r\nGas PPP surcharge (So. 11051 merm)\r\nOakland Utility Users' Tax (7.500%)\r\nTotal Gas Charges\r\nGas Usage This Period: 58.000000 Therms, 31 billing days\r\nTher ms\r\n= Aver e\r\n$20.82\r\n1.77\r\n$165.26\r\nUsa e 1,87\r\n•visit —.pge.com/NyEt•rgy for 5 Otajed b.] comparison.\r\npage S of\r\n",
+      "ErrorMessage": "",
+      "ErrorDetails": ""
+    }
+  ],
+  "OCRExitCode": 1,
+  "IsErroredOnProcessing": false,
+  "ProcessingTimeInMilliseconds": "968",
+  "SearchablePDFURL": "Searchable PDF not generated as it was not requested."
+}

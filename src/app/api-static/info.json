@@ -1,0 +1,7 @@
+{
+  "message": "This is a static deployment of the PG&E Bill Analyzer. For full functionality including OCR and OpenAI integration, please run this application locally with the required API keys.",
+  "setup": {
+    "local": "Clone the repository, add your API keys to .env file, and run 'npm install && npm run dev'",
+    "required_env": ["OPENAI_API_KEY", "OCR_SPACE_API_KEY"]
+  }
+}

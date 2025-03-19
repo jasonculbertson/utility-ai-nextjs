@@ -1,0 +1,20 @@
+{
+  "ParsedResults": [
+    {
+      "TextOverlay": {
+        "Lines": [],
+        "HasOverlay": false,
+        "Message": "Text overlay is not provided as it is not requested"
+      },
+      "TextOrientation": "0",
+      "FileParseExitCode": 1,
+      "ParsedText": "c, www.pge.com/MyEnergy\r\nService For:\r\nJASON CULBERTSON\r\n1080 WARFIELD AVE\r\nOAKLAND, CA 94610\r\nQuestions about your bill?\r\nMon-Fri 7 a.m.-7 p.m.\r\nSaturday 8 a.m.-5 p.m.\r\nprone: 1-800-743-5000\r\nwww.pge.com/MyEnergy\r\nWays To Pay\r\nwww.pge.com/waystopay\r\nImportant Messages\r\nENERGY STATEMENT\r\nThæ\r\nAccount No:\r\nStatement Date:\r\nDue Date:\r\nYour Account Summary\r\nAmount DIE on Previous Statement\r\nPayment(s) Received Sime Last Statement\r\nprevious Unpaid Balance\r\nCurrent PG&E Electric Delivery Charges\r\nAVA COMMUNITY ENERGY Electric Generation Chatges\r\nCurrent Gas Charges\r\nTotal Amount Due by 01/02/2025\r\nMonthly Billing History\r\n$500\r\n$375\r\n$250\r\n$125\r\n$0\r\n7098882035-6\r\n1 2/1 1/2024\r\n01/02/2025\r\n$379 02\r\n-379.02\r\nso.oo\r\n$196.81\r\n77.44\r\n165.26\r\n$439.51\r\nDairy LJ.e ComprOn\r\nAgo\r\nnn 2024\r\nYour current electricity rate Your electricity usage is currently billed on a rate for a single-family home or c.M1mon-use area Ofa\r\nmulti-family complex. If this is incorrect, please call us at 1-800-743-50m fcT a free rate analysis\r\nConinued an O\r\nPFase return this portbn Wdh your paynWnt. NO sta*s dips. DO not fold Thank\r\nAccount Number: Due Date:\r\n7098882035-6 01/02/2025\r\nJASON CULBERTSON\r\n1080 WARF ELO AVE\r\nOAKLAND, CA\r\nToial Amount Due:\r\n$439.51\r\nAmount Enclosed:\r\nPG&E\r\naox 997300\r\nSACRAMENTO. CA 95899-7300\r\npage I ot\r\n",
+      "ErrorMessage": "",
+      "ErrorDetails": ""
+    }
+  ],
+  "OCRExitCode": 1,
+  "IsErroredOnProcessing": false,
+  "ProcessingTimeInMilliseconds": "1281",
+  "SearchablePDFURL": "Searchable PDF not generated as it was not requested."
+}
