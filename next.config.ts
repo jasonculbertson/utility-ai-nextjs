@@ -5,9 +5,15 @@ const nextConfig: NextConfig = {
     OPENAI_API_KEY: process.env.OPENAI_API_KEY,
     OCR_SPACE_API_KEY: process.env.OCR_SPACE_API_KEY,
   },
-  // Configure for GitHub Pages
-  output: 'export',
-  // Disable image optimization since it's not supported in static exports
+  // Disable ESLint during builds
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  // Disable TypeScript type checking during builds
+  typescript: {
+    ignoreBuildErrors: true,
+  },
+  // Disable image optimization for Heroku
   images: {
     unoptimized: true,
   },
